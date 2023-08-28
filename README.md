@@ -21,9 +21,3 @@ flutter run
 
 <img src="assets/screenshot/preview1.png" height="450em" /><img src="assets/screenshot/preview2.png" height="450em" /><img src="assets/screenshot/preview3.png" height="450em" /><img src="assets/screenshot/preview4.png" height="450em" />
 
-## Links
-
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
