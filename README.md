@@ -21,3 +21,4 @@ flutter run
 
 <img src="assets/screenshot/preview1.png" height="450em" /><img src="assets/screenshot/preview2.png" height="450em" /><img src="assets/screenshot/preview3.png" height="450em" /><img src="assets/screenshot/preview4.png" height="450em" />
 
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
